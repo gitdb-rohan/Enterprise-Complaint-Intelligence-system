@@ -1,0 +1,31 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# api keys & configuration
+.env
+.env.*
+
+# Databases & local data
+*.db
+*.sqlite
+*.sqlite3
+*.parquet
+*.csv
+
+# Vector Stores & Database folders
+complaint_db/
+*db/
+chroma/
+
+# IDEs & System files
+.idea/
+.DS_Store
+
