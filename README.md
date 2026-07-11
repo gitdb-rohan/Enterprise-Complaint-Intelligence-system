@@ -105,6 +105,7 @@ A full-stack AI-powered analytics platform for exploring and querying **CFPB (Co
 ## ⚙️ How Each Pipeline Stage Works
 
 ### Stage 1 — Data Fetching
+## data is from -- https://www.consumerfinance.gov
 ```bash
 uv run python data_fetch.py
 # OR if API is unreliable:
